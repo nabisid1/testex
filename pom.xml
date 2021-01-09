@@ -7,13 +7,11 @@
 	<artifactId>testex</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule-application</packaging>
-
 	<name>testex</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
 		<app.runtime>4.2.2</app.runtime>
 		<mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
 	</properties>
@@ -31,8 +29,7 @@
 				        <username>nabis_id7</username>
 					     <password>Shaik123456</password>         
 					     <workers>1</workers>
-					     <workerType>MICRO</workerType>
-					     
+					     <workerType>MICRO</workerType>   
 					     <environment>Sandbox</environment>
 					     <muleVersion>4.2.2</muleVersion>
 					     <applicationName>TestEx12</applicationName>
@@ -43,7 +40,6 @@
 		</plugins>
 	</build>
 	
-
 	<dependencies>
         <dependency>
             <groupId>org.mule.connectors</groupId>
