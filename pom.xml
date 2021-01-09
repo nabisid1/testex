@@ -32,7 +32,7 @@
 					     <workerType>MICRO</workerType>   
 					     <environment>Sandbox</environment>
 					     <muleVersion>4.2.2</muleVersion>
-					     <applicationName>TestEx12</applicationName>
+					     <applicationName>TestEx1</applicationName>
 					     <objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
