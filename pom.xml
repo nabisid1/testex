@@ -35,13 +35,14 @@
 					     
 					     <environment>Sandbox</environment>
 					     <muleVersion>4.2.2</muleVersion>
-					     <applicationName>Demo-Application5</applicationName>
+					     <applicationName>testex</applicationName>
 					     <objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
 		</plugins>
 	</build>
+	
 
 	<dependencies>
         <dependency>
